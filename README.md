@@ -43,3 +43,25 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 |:--------|:--------:| ----------:|
 | *Still*  | `rander` | **Nicely** |
 |    1     |    2     |          3 |
+
+____
+---
+Emphasism aka italicsm with asterisks or underscores
+Strong emphasis, aka boldm with **asterisks** or **underscores**
+Combined emphasis with **asterisks and underscores.**
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+---
+
+1. First ordered list item
+2. Another item <br>
+..*  Unordered sub-list.
+4. Actual numbers don't matter, just that it's a number</br>
+..1. Ordered sub-list</br>
+...2. 2nd
+5. And another item.</br>
+...* note 1</br>
+...* note 2</br>
+***  note 3
+   
+---

@@ -6,7 +6,7 @@
 ##### xinyi1201 鄒欣誼
 
 
-😄 🚴
+😄 🚴 🎵 📺 😴
 ______
 
 ![NKUST](logo.png "NKUST")

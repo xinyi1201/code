@@ -17,4 +17,10 @@ ______
 - [ ] 3rd thing
 - [ ] 4th thing
 
- 
+ ```python
+s = " python highlighted syntex "
+print(s)
+```
+```js
+var s = "javascript highlighted";
+alert(s)

@@ -36,6 +36,10 @@ public class Course {
 
     public Course(String courseName) {
         this.courseName = courseName;
+    }
+
+    // Getters, setters, and other relevant methods
+}
 
 ```
 class ClassRoom {
@@ -45,10 +49,3 @@ class ClassRoom {
 class Course {
       private ClassRoom room;
 }
-
-
-    }
-
-    // Getters, setters, and other relevant methods
-}
-

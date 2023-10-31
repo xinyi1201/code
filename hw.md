@@ -36,6 +36,17 @@ public class Course {
 
     public Course(String courseName) {
         this.courseName = courseName;
+
+```
+class ClassRoom {
+       private Course course;
+}
+
+class Course {
+      private ClassRoom room;
+}
+
+
     }
 
     // Getters, setters, and other relevant methods

@@ -41,7 +41,7 @@ public class Course {
     // Getters, setters, and other relevant methods
 }
 
-```
+```js
 class ClassRoom {
        private Course course;
 }
